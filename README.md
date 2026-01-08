@@ -1,7 +1,7 @@
-## 👋 Hi, I'm Shoaib (@shoaib-047)
+## 👋 Hi, I'm Shoaib Ali
 
 👀 **Interests:**  
-I’m passionate about **Artificial Intelligence** and **Machine Learning**, and I enjoy exploring how intelligent systems can solve real-world problems.
+I’m passionate about **Artificial Intelligence** and **Machine Learning intern**, and I enjoy exploring how intelligent systems can solve real-world problems.
 
 🌱 **Currently Learning:**  
 - Python 🐍  
